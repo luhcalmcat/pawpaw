@@ -1,0 +1,31 @@
+.doggycard{
+    width: 240px;
+    height: 363px;
+    background-color: aqua;
+}
+
+.doggycard-header {
+    display: flex;
+    justify-content: center;
+    padding-top: 6px;
+}
+
+.doggycard-name {
+    margin-top: 8px;
+    margin-left: 8px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.doggycard-model {
+    margin-top: 8px;
+    margin-left: 8px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.doggycard-details {
+    margin-top: 8px;
+    margin-left: 8px;
+}
+

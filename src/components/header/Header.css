@@ -1,8 +1,21 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #E9E9E9;
-    height: 97px;
-    padding: 10px 40px 10px 40px;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  background-color: #E9E9E9;
+  height: 97px;
+  padding: 10px 40px 10px 40px;
+}
+
+.header-item {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.header-item-container{
+  background-color: #E9E9E9;
+  ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 600px;
+}
