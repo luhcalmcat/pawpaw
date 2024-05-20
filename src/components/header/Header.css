@@ -1,21 +1,15 @@
 .header {
-  display: flex;
-  justify-content: space-between;
-  background-color: #E9E9E9;
-  height: 97px;
-  padding: 10px 40px 10px 40px;
+    height: 97px;
+    left: 170px;
+    background: #E9E9E9;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    display: flex;
+    justify-content: space-between;
 }
-
-.header-item {
-  font-size: 30px;
-  font-weight: 600;
-}
-
-.header-item-container{
-  background-color: #E9E9E9;
-  ;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 600px;
+.headeritem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    padding-right: 50px;
 }

@@ -4,7 +4,7 @@ import doggyImage2 from '../../foto/doggy2 1.png'
 import doggyImage3 from '../../foto/doggy3 1.png'
 import doggyImage4 from '../../foto/doggy4 2.png'
 
-import Doggycard from '../doggycard/Doggycard'
+import Doggycard from '../doggycard/Doggycard' 
 
 function Doggylist() {
     return (

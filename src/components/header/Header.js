@@ -1,17 +1,17 @@
-import logo from '../../foto/Logo.jpg'
-import './Header.css'
-import HeaderItem from '../header-item/HeaderItem'
+import './Header.css';
+import logo from '../../images/Logo.png';
+import HeaderItem from '../HeaderItem/HeaderItem.js';
 
 function Header() {
     return (
-      <div className="header">
-        <img src={logo}></img>
-        <div className='header-item-container'>
-          <HeaderItem headerItemText={'Home'}/>
-          <HeaderItem headerItemText={'Fluff List'}/>
-          <HeaderItem headerItemText={'Contact Us'}/>
+        <div className="header">
+        <img id="zdjlogo" src={logo} alt='logo'/>
+        <div className="headeritem">
+        <HeaderItem props='Home'/>
+        <HeaderItem props='Fluff list'/>
+        <HeaderItem props='Contact us'/>
         </div>
-      </div>
+        </div>
     )
 }
 
