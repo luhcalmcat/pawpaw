@@ -4,7 +4,7 @@ function HomeBottomText({
     dogimg,
     dogheader,
     dogdescription,
-    dogname
+    dogname,
 }) {
     return (
         <div className="DogBox">

@@ -30,9 +30,10 @@
     line-height: 28.56px;
     text-align: left; 
 }
-#ponadczysta {
+.ponadczysta {
     color: white;
     font-size: 20px;
-    -webkit-text-stroke: 0.5px black;
+    font-weight: 400;
     transform: translateX(-30px);
+    -webkit-text-stroke: 0.1px black;
 }

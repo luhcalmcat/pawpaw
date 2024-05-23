@@ -2,7 +2,12 @@ import './PuppyComment.css'
 import dog from '../../images/dog2.jpg'
 
 
-function PuppyComment() {
+function PuppyComment({
+    title,
+    paragraph,
+    name,
+    image
+}) {
     return (
         <div className='puppy-comment-wrapper'>
             <div className='puppy-comment-text-wrapper'>
@@ -20,4 +25,4 @@ function PuppyComment() {
     )
 }
 
-export default PuppyComment;
+export default PuppyComment;                  

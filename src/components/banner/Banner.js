@@ -10,7 +10,12 @@ function Banner() {
 
     return (
         <div className='banner-wrapper'>
-            <PuppyComment />
+            <PuppyComment 
+                title={"Life good"}
+                paragraph={"Lots of food, lots of walkses and lots of food. After I finish paw school I might get good job to repay my hoomans.Then I give them treats... Until then I just cute"}
+                name={"Wojti"}
+                image={dog}
+            />
         </div>
     )
 

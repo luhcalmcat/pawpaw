@@ -14,7 +14,7 @@ function HomeBottom() {
                     dogimg={dog2}
                     dogheader="Life good"
                     dogdescription="Lots of food, lots of walkses and lots of food. After i finish paw school I might get good job to repay my hoomans. Then I give them treats... Until then i just cute"
-                    dogname="Jack"
+                    dogname="Jacek"
                 />
                 <HomeBottomText
                     dogimg={dog1}
@@ -34,10 +34,10 @@ function HomeBottom() {
                     dogdescription="I didn’t always work as an attorney. I started as nothing more than a pupper looking for work... Now I run the business with my hoomans."
                     dogname="Fido B."
                 />
-                <p id='ponadczysta'>Over 300 happy customers...and their hoomans</p>
+                <p className='ponadczysta'>Over 300 happy customers...and their hoomans</p>
             </div>
         </div>
     )
 }
 
-export default HomeBottom;
+export default HomeBottom; 
