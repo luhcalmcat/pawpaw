@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pawpaw/static/css/main.0e6af535.css",
+    "main.js": "/pawpaw/static/js/main.81b67ef6.js",
+    "static/js/453.bf187e31.chunk.js": "/pawpaw/static/js/453.bf187e31.chunk.js",
+    "static/media/doghuman.png": "/pawpaw/static/media/doghuman.26c10881f03bfb466b60.png",
+    "static/media/dogbackground.png": "/pawpaw/static/media/dogbackground.ba0bd1c37426d3846983.png",
+    "static/media/doggybag.png": "/pawpaw/static/media/doggybag.7377057192a9ad688eff.png",
+    "static/media/Chivo-Regular.ttf": "/pawpaw/static/media/Chivo-Regular.4a20db978e653e11e640.ttf",
+    "static/media/doggy2.png": "/pawpaw/static/media/doggy2.07c5c6602eabe54b5af0.png",
+    "static/media/doggy1.png": "/pawpaw/static/media/doggy1.2b9d5c1dafbe482297d2.png",
+    "static/media/doggy4.png": "/pawpaw/static/media/doggy4.39cc8066de005ca6717b.png",
+    "static/media/ahsoka.png": "/pawpaw/static/media/ahsoka.a342bdc3620ea8a329b6.png",
+    "static/media/dogback.jpg": "/pawpaw/static/media/dogback.345869969c8c5677d0d1.jpg",
+    "static/media/doggy3.png": "/pawpaw/static/media/doggy3.97334311fa0dd2ab023d.png",
+    "static/media/livin.png": "/pawpaw/static/media/livin.a53f20a19778b0ea05f4.png",
+    "static/media/lawyer.png": "/pawpaw/static/media/lawyer.3f820dcb5d2e59a1c5d6.png",
+    "static/media/Logo.png": "/pawpaw/static/media/Logo.1fe3c52826b54590a20e.png",
+    "static/media/ReactLogo.png": "/pawpaw/static/media/ReactLogo.5b5c237960771ba5bb0c.png",
+    "index.html": "/pawpaw/index.html",
+    "main.0e6af535.css.map": "/pawpaw/static/css/main.0e6af535.css.map",
+    "main.81b67ef6.js.map": "/pawpaw/static/js/main.81b67ef6.js.map",
+    "453.bf187e31.chunk.js.map": "/pawpaw/static/js/453.bf187e31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6af535.css",
+    "static/js/main.81b67ef6.js"
+  ]
+}
